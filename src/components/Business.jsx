@@ -1,7 +1,7 @@
 import { features } from "../constants";
 import styles, { layout } from "../style";
 import macbook from '../assets/ipad_pro.png'
-import inMacbook from '../assets/cash.png'
+import inMacbook from '../assets/cash.jpg'
 
 const FeatureCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`} data-aos={"fade-left"} data-aos-duration={index*500}>

@@ -1,7 +1,7 @@
 import styles from "../style";
 import { discount } from "../assets";
 import macbook from "../assets/macbook.webp";
-import inMacbook from "../assets/inMacbook.png";
+import inMacbook from "../assets/inMacbook.jpg";
 
 const Hero = () => {
 
